@@ -1,4 +1,4 @@
-# Problem-Set-1-Econ_3916_PS1.ipynb
+# Problem Set 1/README.md
 
 Our hypothetical household basket rose 34% between 2019 and 2024, compared with 22.7% for the seasonally adjusted national CPI, a difference of 11.3 percentage points. This scenario does not support the client’s claim that CPI necessarily overstates workers’ price increases.
 
